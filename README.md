@@ -10,6 +10,7 @@ The dark web is a part of the internet that is not indexed by conventional searc
 Before accessing any `.onion` site, please ensure you follow these critical safety measures:
 
 *   **Use Tor Browser:** Always use the official Tor Browser for accessing `.onion` sites. Do not use regular browsers with VPNs, as they do not provide the same level of anonymity.
+    ![Tor Browser Logo](images/tor_browser_logo.png)
 *   **VPN (Optional but Recommended):** Consider using a reputable VPN **before** launching Tor Browser. This adds an extra layer of anonymity by encrypting your internet traffic before it reaches the Tor network.
 *   **Disable Scripts:** Keep JavaScript disabled in Tor Browser (default setting) to prevent potential deanonymization attacks.
 *   **Do Not Download Files:** Avoid downloading files from unknown sources on the dark web, as they may contain malware.
@@ -21,7 +22,9 @@ Before accessing any `.onion` site, please ensure you follow these critical safe
 
 ### Search Engines
 *   **Ahmia:** A search engine for Tor hidden services. (Example: `http://msydqstlz2kzerz4.onion/`)
+    ![Ahmia Logo](images/ahmia_logo.png)
 *   **DuckDuckGo:** Offers a `.onion` version for privacy-focused searches. (Example: `https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfkyivxtnfmxw4qjnr2lh.onion/`)
+    ![DuckDuckGo Logo](images/duckduckgo_logo.png)
 
 ### Forums & Communities
 *   **Hidden Wiki:** A directory of `.onion` sites, though often outdated and containing illicit links. Use with extreme caution. (Example: `http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page`)
