@@ -21,7 +21,6 @@ Accessing the dark web involves significant risks, including exposure to illegal
   - [Privacy Tools](#privacy-tools)
   - [Knowledge Bases](#knowledge-bases)
 - [Advanced Security Tips](#-advanced-security-tips)
-- [Contribution Guide](#-contribution-guide)
 - [License](#-license)
 
 ---
@@ -84,16 +83,5 @@ Libraries and wikis for deep-dive research.
 
 ---
 
-## 🤝 Contribution Guide
-Contributions are welcome! If you have a legitimate, educational link or a security tip to add:
-1. Fork the repository.
-2. Create a new branch.
-3. Submit a Pull Request with a clear description of the addition.
-
----
-
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-*Created and maintained for the advancement of digital privacy and research.*
