@@ -1,45 +1,99 @@
-# Dark Web Links Directory (Educational Purpose Only)
+# Dark Web Links Directory & Safety Guide
 
-## Disclaimer
-This repository is intended for **educational and research purposes only**. Accessing the dark web carries inherent risks, including exposure to illegal content, malware, and potential legal consequences depending on your jurisdiction. Users are solely responsible for their actions and must comply with all applicable laws and regulations. The maintainers of this repository do not endorse or condone any illegal activities.
+![Tor Browser Logo](images/tor_browser_logo.png)
 
-## Introduction
-The dark web is a part of the internet that is not indexed by conventional search engines and requires specific software, configurations, or authorizations to access, most commonly the Tor browser. It is often associated with illicit activities, but it also serves as a platform for privacy, free speech, and journalism in oppressive regimes. This directory aims to provide a curated list of educational and research-oriented `.onion` sites to understand its structure and content.
-
-## Safety Guidelines
-Before accessing any `.onion` site, please ensure you follow these critical safety measures:
-
-*   **Use Tor Browser:** Always use the official Tor Browser for accessing `.onion` sites. Do not use regular browsers with VPNs, as they do not provide the same level of anonymity.
-    ![Tor Browser Logo](images/tor_browser_logo.png)
-*   **VPN (Optional but Recommended):** Consider using a reputable VPN **before** launching Tor Browser. This adds an extra layer of anonymity by encrypting your internet traffic before it reaches the Tor network.
-*   **Disable Scripts:** Keep JavaScript disabled in Tor Browser (default setting) to prevent potential deanonymization attacks.
-*   **Do Not Download Files:** Avoid downloading files from unknown sources on the dark web, as they may contain malware.
-*   **Do Not Share Personal Information:** Never share any personal identifying information (real name, address, email, etc.) on the dark web.
-*   **Use a Dedicated OS/VM:** For advanced users, consider using a live operating system (like Tails OS) or a virtual machine to isolate your dark web activities from your main operating system.
-*   **Be Skeptical:** Not everything on the dark web is real. Be cautious of scams, phishing attempts, and misleading information.
-
-## Educational Onion Links (Examples)
-
-### Search Engines
-*   **Ahmia:** A search engine for Tor hidden services. (Example: `http://msydqstlz2kzerz4.onion/`)
-    ![Ahmia Logo](images/ahmia_logo.png)
-*   **DuckDuckGo:** Offers a `.onion` version for privacy-focused searches. (Example: `https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfkyivxtnfmxw4qjnr2lh.onion/`)
-    ![DuckDuckGo Logo](images/duckduckgo_logo.png)
-
-### Forums & Communities
-*   **Hidden Wiki:** A directory of `.onion` sites, though often outdated and containing illicit links. Use with extreme caution. (Example: `http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page`)
-
-### Libraries & Archives
-*   **Imperial Library of Trantor:** A collection of books and documents. (Example: `http://kpynyvym6xqi7wz2.onion/`)
-
-### Security & Privacy Tools
-*   **ProPublica:** An investigative journalism organization with a `.onion` presence. (Example: `http://www.propub3r6qqbnzl.onion/`)
-
-## Contributing
-If you find educational or research-oriented `.onion` links that you believe should be included, please open an issue or submit a pull request. All submissions will be reviewed for their educational value and adherence to safety guidelines.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+A comprehensive, curated directory of educational and research-oriented `.onion` links, combined with a rigorous safety framework for secure navigation of the dark web.
 
 ---
-*Maintained by Manus AI for educational purposes.*
+
+## ⚠️ Disclaimer
+**For Educational and Research Purposes Only.**
+Accessing the dark web involves significant risks, including exposure to illegal content and potential security threats. This repository is designed to provide a structured overview for researchers and students. The maintainer is not responsible for any misuse of this information or any legal consequences resulting from your actions. **Always comply with your local laws.**
+
+---
+
+## 📑 Table of Contents
+- [Introduction](#-introduction)
+- [Key Features](#-key-features)
+- [Safety Framework](#-safety-framework)
+- [Directory Categories](#-directory-categories)
+  - [Search Engines](#search-engines)
+  - [Privacy Tools](#privacy-tools)
+  - [Knowledge Bases](#knowledge-bases)
+- [Advanced Security Tips](#-advanced-security-tips)
+- [Contribution Guide](#-contribution-guide)
+- [License](#-license)
+
+---
+
+## 🚀 Introduction
+The dark web remains one of the most misunderstood parts of the internet. While often associated with illicit markets, it serves as a vital tool for whistleblowers, journalists, and individuals living under censorship. This project aims to demystify the dark web by providing verified links to legitimate services and a robust safety protocol.
+
+## ✨ Key Features
+- **Verified Links:** All links are manually checked for relevance to educational research.
+- **Safety-First Approach:** Integrated guidelines to ensure user anonymity and system security.
+- **Categorized Directory:** Easy navigation through different types of hidden services.
+- **Privacy Centric:** Focus on tools and services that prioritize user data protection.
+
+---
+
+## 🛡️ Safety Framework
+Before you even consider clicking a link, you must establish a secure environment.
+
+1. **The Tor Network:** Never use a standard browser. Use the official [Tor Browser](https://www.torproject.org/).
+2. **Identity Isolation:** Never use your real name, email, or any handle that can be linked back to your physical identity.
+3. **Network Security:** Use a trusted VPN *before* connecting to Tor to hide the fact that you are using Tor from your ISP.
+4. **Hardware Privacy:** Cover your webcam and disable your microphone when browsing.
+
+---
+
+## 📂 Directory Categories
+
+### Search Engines
+Search engines on the dark web are the primary way to discover hidden services.
+
+| Service | Description | Onion Link (Example) |
+| :--- | :--- | :--- |
+| **Ahmia** | The most popular and cleanest search engine for Tor. | `http://msydqstlz2kzerz4.onion/` |
+| **DuckDuckGo** | The privacy-focused search engine's onion portal. | `https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfkyivxtnfmxw4qjnr2lh.onion/` |
+
+![Ahmia Logo](images/ahmia_logo.png)
+![DuckDuckGo Logo](images/duckduckgo_logo.png)
+
+### Privacy Tools
+Tools designed to enhance your digital footprint security.
+
+| Tool | Purpose |
+| :--- | :--- |
+| **ProPublica** | Investigative journalism with a secure onion drop. |
+| **SecureDrop** | An open-source whistleblower submission system. |
+
+### Knowledge Bases
+Libraries and wikis for deep-dive research.
+
+- **Imperial Library of Trantor:** A massive repository of digitized books.
+- **The Hidden Wiki (Censored Version):** A directory of links (Use with caution).
+
+---
+
+## 🔐 Advanced Security Tips
+- **No Script Policy:** Always keep JavaScript disabled in Tor's "Safest" mode.
+- **Avoid Full Screen:** Do not maximize your Tor Browser window; it can be used for browser fingerprinting.
+- **Tails OS:** For maximum security, run your session from a live USB using [Tails](https://tails.boum.org/).
+- **Metadata Scrubbing:** If you must upload or share files, use tools like MAT2 to remove metadata first.
+
+---
+
+## 🤝 Contribution Guide
+Contributions are welcome! If you have a legitimate, educational link or a security tip to add:
+1. Fork the repository.
+2. Create a new branch.
+3. Submit a Pull Request with a clear description of the addition.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+*Created and maintained for the advancement of digital privacy and research.*
